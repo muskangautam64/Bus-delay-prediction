@@ -1,4 +1,4 @@
-# NYC Bus Delay Prediction Service
+# Bus Delay Prediction Service
 A end-to-end(ish) ML pipeline for a simple bus delay prediction service, which can be deployed in a Kubernetes cluster.
 
 
